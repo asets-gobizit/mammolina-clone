@@ -1,0 +1,5 @@
+*.zip
+mirror*.py
+index-rebuild.html
+.DS_Store
+node_modules/
