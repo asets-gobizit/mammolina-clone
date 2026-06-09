@@ -1,6 +1,6 @@
 {
   "name": "mammolina-clone",
-  "buildCommand": "",
+  "buildCommand": "echo 'Building static site...'",
   "outputDirectory": "site/mammolinamontessori.com",
-  "installCommand": ""
+  "installCommand": "echo 'No dependencies to install'"
 }
