@@ -1,0 +1,8 @@
+node_modules
+.git
+.env
+.env.local
+*.log
+.DS_Store
+site/mammolinamontessori.com/wp-content/plugins
+site/mammolinamontessori.com/wp-content/cache
